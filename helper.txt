@@ -1,0 +1,6 @@
+#This URL helped for setting up the pyaudio on macbook air m2 chip
+https://stackoverflow.com/questions/73268630/error-could-not-build-wheels-for-pyaudio-which-is-required-to-install-pyprojec
+
+#install ffmpeg
+
+brew install ffmpeg
