@@ -4,3 +4,13 @@ https://stackoverflow.com/questions/73268630/error-could-not-build-wheels-for-py
 #install ffmpeg
 
 brew install ffmpeg
+
+#WhisperLive
+
+1. This project is to stream the audio input to the whisper model
+
+2. Implementation of realtime audio stream to whisper from @davabase, Thanks @davabase https://github.com/davabase/whisper_real_time .
+
+#TensorFlowTTS
+
+This project used to help loading wavenet model for text to speech.
